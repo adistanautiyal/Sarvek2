@@ -423,23 +423,23 @@ body{
     color: #fff;
 }
 #box1:hover{
-    background-image:url("social pics/ngobox1.jpg");
+    background-image:url("ngobox1.jpg");
     background-size: cover;
 }
 #box2:hover{
-    background-image:url("social pics/ngobox2.jpg");
+    background-image:url("ngobox2.jpg");
     background-size: cover;
 }
 #box3:hover{
-    background-image:url("social pics/ngobox3.jpg");
+    background-image:url("ngobox3.jpg");
     background-size: cover;
 }
 #box4:hover{
-    background-image:url("social pics/ngobox4.jpg");
+    background-image:url("ngobox4.jpg");
     background-size: cover;
 }
 #box5:hover{
-    background-image:url("social pics/ngobox5.jpg");
+    background-image:url("ngobox5.jpg");
     background-size: cover;
 }
 
